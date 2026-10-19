@@ -3,7 +3,7 @@
 물망초를 따라 떠나는 작은 횡스크롤 픽셀 모험 게임입니다.
 브라우저에서 바로 플레이할 수 있어요.
 
-**▶ 플레이하기:** https://아이디.github.io/forgotten-temple/
+**▶ 플레이하기:** https://parksy572-star.github.io/forgotten-temple-demo-/
 
 ## 이야기
 
